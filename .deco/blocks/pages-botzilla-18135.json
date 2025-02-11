@@ -1,0 +1,20 @@
+{
+  "name": "botzilla",
+  "path": "/botzilla",
+  "sections": [
+    {
+      "__resolveType": "site/sections/ItWorks.tsx",
+      "name": "<p>It Works!</p>",
+      "count": 1
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "type": "website",
+    "themeColor": ""
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
